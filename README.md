@@ -16,25 +16,25 @@ Welcome to my professional web developer portfolio built with **React + TypeScri
 
 portfolio/
 ├── public/
-│ ├── profile.jpg
-│ └── resume.pdf
+│ ├── profile.jpg # Developer image
+│ └── resume.pdf # Downloadable resume
 ├── src/
-│ ├── components/
+│ ├── components/ # Reusable UI components
 │ │ ├── Header.tsx
 │ │ ├── Footer.tsx
 │ │ ├── Navigation.tsx
 │ │ └── Project.tsx
-│ ├── pages/
+│ ├── pages/ # Main page sections
 │ │ ├── About.tsx
 │ │ ├── Portfolio.tsx
 │ │ ├── Contact.tsx
 │ │ └── Resume.tsx
-│ ├── App.tsx
-│ ├── main.tsx
-│ └── index.css
-├── vite.config.ts
-├── package.json
-└── README.md
+│ ├── App.tsx # Main routing component
+│ ├── main.tsx # App entry point
+│ └── index.css # Global styles
+├── vite.config.ts # Vite configuration
+├── package.json # Project metadata and scripts
+└── README.md # Project overview
 
 ## ⚙️ Getting Started
 
