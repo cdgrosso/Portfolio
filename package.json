@@ -1,0 +1,24 @@
+{
+  "name": "react-portfolio",
+  "version": "1.0.0",
+  "description": "My React developer portfolio showcasing projects, resume, and contact form.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "Christopher Del Grosso",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.23.0"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0",
+    "typescript": "^5.4.2",
+    "@types/react": "^18.2.40",
+    "@types/react-dom": "^18.2.17"
+  }
+}
